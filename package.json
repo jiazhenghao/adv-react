@@ -1,0 +1,29 @@
+{
+  "name": "adv-react",
+  "version": "1.0.0",
+  "description": "advanced",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiazhenghao/adv-react.git"
+  },
+  "keywords": [
+    "advanced",
+    "react"
+  ],
+  "author": "jiazhenghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiazhenghao/adv-react/issues"
+  },
+  "homepage": "https://github.com/jiazhenghao/adv-react#readme",
+  "devDependencies": {
+    "eslint": "6.4.0"
+  }
+}
